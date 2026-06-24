@@ -1,4 +1,3 @@
-<img width="1440" height="803" alt="{51037018-BD47-40B2-9B34-C489E3299869}" src="https://github.com/user-attachments/assets/8db7e048-107f-4086-84d9-40edc5d20cfd" />
 <img width="1440" height="803" alt="{51037018-BD47-40B2-9B34-C489E3299869}" src="https://github.com/user-attachments/assets/682aeee3-0cf3-47fa-93bf-cea48f221297" />
 <img width="1439" height="805" alt="{674935A9-8A5A-48BC-832E-7EEB3594312D}" src="https://github.com/user-attachments/assets/4084d8d9-db3b-437e-bfc1-f43e76ac3389" />
 # IT Help Desk Ticketing & SLA Dashboard
